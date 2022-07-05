@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "test-jenkins-jcasc-ops-controller"
 description: "CloudBees CI configuration bundle for the test-jenkins-jcasc ops-controller Controller"
 parent: "base"
